@@ -20,8 +20,7 @@ Unlike traditional health apps that give isolated advice, this system integrates
 
 🔐 Secure Authentication: User data protected with JWT-based login and access control.
 
-🧠 Tech Stack
-
+🧠 Tech Stacks
 Frontend: Next.js 14, Tailwind CSS, shadcn/ui
 
 Backend: FastAPI (Python), CrewAI, LangChain
